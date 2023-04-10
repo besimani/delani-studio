@@ -27,3 +27,6 @@ Its a landing page about Delani Studio
 
 ## Live Link
 https://besimani.github.io/delani-studio
+
+## License
+(c) 2023 Bernard Amaitsa Simani
