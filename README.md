@@ -10,3 +10,8 @@ Beranard Amaitsa Simani
 
 ## About this project 
 Its a landing page about Delani Studio
+
+## Setup Instructions
+- git clone https://github.com/besimani/delani-studio
+- open the cloned folder in vs code
+- Go live
