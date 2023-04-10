@@ -24,3 +24,6 @@ Its a landing page about Delani Studio
 - Java script
 - JQuery
 - Git & Github
+
+## Live Link
+https://besimani.github.io/delani-studio
