@@ -15,3 +15,12 @@ Its a landing page about Delani Studio
 - git clone https://github.com/besimani/delani-studio
 - open the cloned folder in vs code
 - Go live
+
+## Technologies used
+- HTHL
+- CSS
+- Boostrap
+- Vs Code
+- Java script
+- JQuery
+- Git & Github
