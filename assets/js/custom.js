@@ -1,15 +1,18 @@
-$(document).ready(function(){
-  $("button").click(function(){
-    $("p").toggle(1000, function(){
-      alert("The toggle() method is finished!");
+$(document).ready(()=>{
+  $("#design, #development, #product management").click(()=>{
+    console.log("click");
+    $("#design, #development, #product management").toggle(()=>{
+      console.log("toggle");
+      alert("The toggle() display paragraph!");
     });
   });
 });
 
 
-$(document).ready(function(){
-    $("button").submit(function(){
-      $("p").hide("slow", function(){
+$(document).ready(()=>{
+    $("#form").submit(()=>{
+      console.log("form submitted")
+      $("p").hide("slow", ()=>{
         alert("We have received your message. Thank you for reaching out to us");
       });
     });
